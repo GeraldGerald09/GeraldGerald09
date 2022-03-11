@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gerald James M. Sabado
-- 👀 I’m interested in ...Technologies and other stuff on internet
+- 👀 I’m interested in ... learninng web development
 - 🌱 I’m currently learning ...to code and program
 - 📫 How to reach me ... you can reach me at my facebook https://www.facebook.com/grldsbd/ 🔥🔥
 
