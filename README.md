@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @GeraldGerald09
+- 👋 Hi, I’m Gerald James M. Sabado
 - 👀 I’m interested in ...Technologies and other stuff on internet
-- 🌱 I’m currently learning ...to code
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning ...to code and program
+- 📫 How to reach me ... you can reach me at my facebook https://www.facebook.com/grldsbd/ 🔥🔥
 
 <!---
 GeraldGerald09/GeraldGerald09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
